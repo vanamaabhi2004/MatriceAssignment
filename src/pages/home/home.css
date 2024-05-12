@@ -1,0 +1,57 @@
+
+.candidate-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .candidate-table th,
+  .candidate-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .candidate-table th {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .candidate-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .candidate-table tr:hover {
+    background-color: #ddd;
+  }
+
+  .container h2{
+    margin-bottom: 40px;
+  }
+  th {
+    text-align: center; /* Center the text horizontally */
+  }
+
+  .icon svg {
+    font-size: 20px !important; 
+  }
+  
+  .icon svg:hover {
+    transform: scale(1.2); 
+    color: beige;
+  }
+
+  .th1{
+    margin-right: 40px
+  }
+
+  .text-center input{
+    margin-left:20px !important;
+    align-items: center;
+    width: 40% !important
+  }
+
+  .input form-control{
+    margin-left:20px;
+  }
+  
+  
